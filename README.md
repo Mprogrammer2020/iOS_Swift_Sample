@@ -1,4 +1,4 @@
 # iOS_Swift_Sample
 
 
-Table multi selection with serach bar
+Tableview with multi cell selection and selecion from search results using serach bar
