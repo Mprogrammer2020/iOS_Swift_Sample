@@ -1,7 +1,6 @@
-# iOS_Swift_MVC_Sample
+<p align="center"><img src="https://www.netsetsoftware.com/images2/logonetset.png"></p>
+<h1 align="center">Swift multi select tableview</h1>
 
-
-SwiftMultiSelect :- 
 
 A tableview with around some items which allows users to have multiple selections, after which user submits their selection.
 
