@@ -1,4 +1,4 @@
-# iOS_Swift_Sample
+# iOS_Swift_MVC_Sample
 
 
 SwiftMultiSelect :- 
