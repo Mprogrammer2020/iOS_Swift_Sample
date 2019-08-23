@@ -6,6 +6,7 @@
 <b>Language Version</b>  : 5.0<br>
 <b>Minimum Deployment Target</b> : 11.0<br>
 <b>Maximum Deployment Target</b> : 12.4<br>
+<b>Devcies</b> : Universal<br>
 <b>Project Structure</b> : MVC(Model View Controller)<br>
 
 This project contain sample example of table multi-selection using MVC structure
